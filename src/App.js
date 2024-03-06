@@ -18,7 +18,7 @@ export default function App() {
           </a>
           and is{" "}
           <a
-            href="https://github.com/SoniaCarrilloM/weather-app-three"
+            href="https://github.com/SoniaCarrilloM/weather-five"
             target="_blank"
             rel="noreferrer noopener"
           >
