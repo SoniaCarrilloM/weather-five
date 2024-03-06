@@ -22,15 +22,15 @@ export default function App() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            open sourced on GitHub
+            open sourced on GitHub{" "}
           </a>
-          and hosted on
+          and hosted on{" "}
           <a
             href="https://kaleidoscopic-maamoul-3d803e.netlify.app/"
             target="_blank"
             rel="noreferrer noopener"
           >
-            hosted on Netlify
+            Netlify
           </a>
         </footer>
       </div>
