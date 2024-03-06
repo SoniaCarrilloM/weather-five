@@ -24,6 +24,14 @@ export default function App() {
           >
             open sourced on GitHub
           </a>
+          and hosted on
+          <a
+            href="https://kaleidoscopic-maamoul-3d803e.netlify.app/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
